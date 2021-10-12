@@ -12,4 +12,4 @@ This software can play music, with a custom UI for ease of use.
 4. Change the directory of the playtlist using "/".
 5. Run the code and enjoy!
 ## **ADDITIONAL FILES**
-Sample Playlist
+> Sample Playlist
