@@ -8,7 +8,7 @@ pygame.mixer.init()
 #create a window for program
 window=tkr.Tk()
 #specifiation of windows
-window.title("Music Script")
+window.title("Music player")
 window.geometry("550x550")
 #playlist regist
 os.chdir("C:/Users/tanis/Downloads/home/playlist")
